@@ -1,3 +1,11 @@
+// for(...) {
+
+//     swap(...);       // FIX
+
+//     solve(...);      // EXPLORE
+
+//     swap(...);       // UNFIX
+// }
 class Solution {
 public:
     vector<vector<int>> ans;
