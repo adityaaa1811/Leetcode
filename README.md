@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityaaa1811/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/adityaaa1811/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/adityaaa1811/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
@@ -29,4 +30,20 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityaaa1811/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/adityaaa1811/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/adityaaa1811/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/adityaaa1811/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/adityaaa1811/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
