@@ -41,11 +41,13 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaaa1811/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/adityaaa1811/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/adityaaa1811/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaaa1811/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/adityaaa1811/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/adityaaa1811/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -60,4 +62,16 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/adityaaa1811/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/adityaaa1811/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/adityaaa1811/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/adityaaa1811/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
